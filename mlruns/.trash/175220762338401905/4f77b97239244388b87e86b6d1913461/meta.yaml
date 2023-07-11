@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/175220762338401905/4f77b97239244388b87e86b6d1913461/artifacts
+deleted_time: 1689099346368
 end_time: 1688959429597
 entry_point_name: ''
 experiment_id: '175220762338401905'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4f77b97239244388b87e86b6d1913461
 run_name: salty-mare-49
 run_uuid: 4f77b97239244388b87e86b6d1913461

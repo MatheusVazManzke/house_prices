@@ -1,6 +1,7 @@
 artifact_location: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/175220762338401905
 creation_time: 1688959429461
 experiment_id: '175220762338401905'
-last_update_time: 1688959429461
-lifecycle_stage: active
+last_update_time: 1689099346368
+lifecycle_stage: deleted
 name: House_Prices_Train
+tags: {}

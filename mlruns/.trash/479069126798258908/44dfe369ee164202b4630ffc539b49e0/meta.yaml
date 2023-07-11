@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/479069126798258908/44dfe369ee164202b4630ffc539b49e0/artifacts
+deleted_time: 1689099351419
 end_time: null
 entry_point_name: ''
 experiment_id: '479069126798258908'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 44dfe369ee164202b4630ffc539b49e0
 run_name: RUN_1
 run_uuid: 44dfe369ee164202b4630ffc539b49e0

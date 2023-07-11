@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/0/6be54a1122a54eabba7e609419b1d49d/artifacts
+end_time: 1689098746183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6be54a1122a54eabba7e609419b1d49d
+run_name: inquisitive-sow-521
+run_uuid: 6be54a1122a54eabba7e609419b1d49d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689096327355
+status: 3
+tags: []
+user_id: matheus
