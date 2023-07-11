@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/935037405048572969/98c29be9d5d244c585ac8b9b7633752b/artifacts
+deleted_time: 1688573325424
+end_time: 1688568901169
+entry_point_name: ''
+experiment_id: '935037405048572969'
+lifecycle_stage: deleted
+run_id: 98c29be9d5d244c585ac8b9b7633752b
+run_name: charming-fly-45
+run_uuid: 98c29be9d5d244c585ac8b9b7633752b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688568901162
+status: 3
+tags: []
+user_id: matheus

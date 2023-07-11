@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/479069126798258908/41a618fb4403410e98f617b1e76e36f1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '479069126798258908'
+lifecycle_stage: active
+run_id: 41a618fb4403410e98f617b1e76e36f1
+run_name: Kbest_correlation
+run_uuid: 41a618fb4403410e98f617b1e76e36f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688582765863
+status: 1
+tags: []
+user_id: matheus

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/479069126798258908/6cdad50e26424a46bd0721f8e7cf807f/artifacts
+deleted_time: 1688575002499
+end_time: 1688573419161
+entry_point_name: ''
+experiment_id: '479069126798258908'
+lifecycle_stage: deleted
+run_id: 6cdad50e26424a46bd0721f8e7cf807f
+run_name: big-perch-781
+run_uuid: 6cdad50e26424a46bd0721f8e7cf807f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688573419116
+status: 3
+tags: []
+user_id: matheus

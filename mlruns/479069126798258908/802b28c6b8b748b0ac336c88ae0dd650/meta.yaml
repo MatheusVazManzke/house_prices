@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/479069126798258908/802b28c6b8b748b0ac336c88ae0dd650/artifacts
+end_time: 1688574749589
+entry_point_name: ''
+experiment_id: '479069126798258908'
+lifecycle_stage: active
+run_id: 802b28c6b8b748b0ac336c88ae0dd650
+run_name: selective-gnat-561
+run_uuid: 802b28c6b8b748b0ac336c88ae0dd650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688574749582
+status: 3
+tags: []
+user_id: matheus

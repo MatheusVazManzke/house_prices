@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/935037405048572969/6a6829e12a754f138840056d37759544/artifacts
+deleted_time: 1688573325424
+end_time: 1688569603251
+entry_point_name: ''
+experiment_id: '935037405048572969'
+lifecycle_stage: deleted
+run_id: 6a6829e12a754f138840056d37759544
+run_name: smiling-jay-349
+run_uuid: 6a6829e12a754f138840056d37759544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688569099034
+status: 3
+tags: []
+user_id: matheus

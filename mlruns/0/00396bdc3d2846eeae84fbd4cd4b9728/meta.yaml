@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/0/00396bdc3d2846eeae84fbd4cd4b9728/artifacts
+end_time: 1688582676944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00396bdc3d2846eeae84fbd4cd4b9728
+run_name: popular-horse-199
+run_uuid: 00396bdc3d2846eeae84fbd4cd4b9728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688582106010
+status: 3
+tags: []
+user_id: matheus

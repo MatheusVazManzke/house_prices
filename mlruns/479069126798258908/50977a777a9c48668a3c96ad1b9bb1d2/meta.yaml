@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/479069126798258908/50977a777a9c48668a3c96ad1b9bb1d2/artifacts
+deleted_time: 1688575002499
+end_time: null
+entry_point_name: ''
+experiment_id: '479069126798258908'
+lifecycle_stage: deleted
+run_id: 50977a777a9c48668a3c96ad1b9bb1d2
+run_name: agreeable-shad-472
+run_uuid: 50977a777a9c48668a3c96ad1b9bb1d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688573754064
+status: 1
+tags: []
+user_id: matheus

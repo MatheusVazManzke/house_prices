@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/935037405048572969/127d330a3e9f4bbbb7028b9e0f51b1c7/artifacts
+deleted_time: 1688573325424
+end_time: 1688569606745
+entry_point_name: ''
+experiment_id: '935037405048572969'
+lifecycle_stage: deleted
+run_id: 127d330a3e9f4bbbb7028b9e0f51b1c7
+run_name: bright-sow-0
+run_uuid: 127d330a3e9f4bbbb7028b9e0f51b1c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688569606732
+status: 3
+tags: []
+user_id: matheus
