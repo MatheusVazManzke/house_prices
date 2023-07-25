@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/240286994133121510/d421c07645d04f499b8726dce557cc9c/artifacts
+end_time: 1689853046413
+entry_point_name: ''
+experiment_id: '240286994133121510'
+lifecycle_stage: active
+run_id: d421c07645d04f499b8726dce557cc9c
+run_name: grandiose-horse-382
+run_uuid: d421c07645d04f499b8726dce557cc9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689853046407
+status: 3
+tags: []
+user_id: matheus

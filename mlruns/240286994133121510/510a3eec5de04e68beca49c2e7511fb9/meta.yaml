@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matheus/Desktop/ml_project/house_prices_kaggle/mlruns/240286994133121510/510a3eec5de04e68beca49c2e7511fb9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '240286994133121510'
+lifecycle_stage: active
+run_id: 510a3eec5de04e68beca49c2e7511fb9
+run_name: RUN_1
+run_uuid: 510a3eec5de04e68beca49c2e7511fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689853046430
+status: 1
+tags: []
+user_id: matheus
